@@ -10,8 +10,8 @@ Effortless Product Management for Seamless Operations
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Configuration](#configuration)
+[Technologies](#Technologies)
+[Demo](Demo)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -39,7 +39,7 @@ Effortless Product Management for Seamless Operations
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/inventory-xpress.git
+   git clone https://github.com/Im-adom/Inventory_Xpress.git
 
 
 Navigate to the project directory:
@@ -47,6 +47,7 @@ cd inventory-xpress
 
 Install dependencies:
 npm install
+npm install express knex sqlite3
 
 
 Usage
@@ -58,19 +59,10 @@ npm start
 Open your web browser and visit http://localhost:3000.
 Use the application to manage products effortlessly.
 
-API Documentation
-The API endpoints are documented in the OpenAPI YAML file. If you need to interact with the API directly, refer to this documentation for details on available endpoints and request/response structures.
+Technologies
+Frontend: HTML5, CSS3 and JavaScript Backend: Express.js/Node.js/SQLite
 
-Configuration
-Configure the project by updating the .env file. This file may include settings such as database connection details, API keys, or other configuration options.
-# Database Configuration
-DB_HOST=localhost
-DB_PORT=5432
-
-# API Configuration
-API_KEY=your_api_key
-Contributing
-Feel free to contribute by submitting bug reports, feature requests, or pull requests. Follow the Contributing Guidelines for more details
+Demo:
 
 # License
 This project is licensed under the MIT License.
