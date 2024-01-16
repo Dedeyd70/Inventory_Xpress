@@ -25,7 +25,6 @@ Effortless Product Management for Seamless Operations
 - **User-friendly Interface:** Clean and intuitive design for easy navigation.
 - **Dynamic CRUD Operations:** Create, Read, Update, and Delete product records effortlessly.
 - **Product Categories:** Categorize products for better organization.
-- **Search Functionality:** Quickly find products using name or category.
 - **Responsive Design:** Works seamlessly on different devices.
 
 ## Getting Started
@@ -61,7 +60,7 @@ Open your web browser and visit http://localhost:3000.
 Use the application to manage products effortlessly.
 
 ## Technologies
-Frontend: HTML5, CSS3, and JavaScript
+Frontend: HTML5, CSS, Bootstrap and JavaScript
 Backend: Express.js, Node.js, and SQLite
 
 ## Demo:
@@ -74,5 +73,5 @@ The project was inspired by the need for a simple and efficient inventory manage
 Thanks to the contributors who have dedicated their time and effort to improve this project.
 
 Support
-For any questions or issues, please open an issue on github
+For any questions or issues, please open an issue on GitHub
 
