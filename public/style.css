@@ -72,3 +72,9 @@ body {
     }
 }
 
+/* Adjust the class name to match the actual class of your images */
+.feature-row img {
+    margin-bottom: 20px; /* Adjust the pixel value as needed for spacing */
+    margin-top: 20px; /* Adjust the pixel value as needed for spacing */
+}
+
