@@ -10,10 +10,11 @@ Effortless Product Management for Seamless Operations
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
-[Technologies](#Technologies)
-[Demo](Demo)
-- [Contributing](#contributing)
+- [Technologies](#technologies)
+- [Demo](#demo)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Support](#support)
 
 ## Overview
 
@@ -50,7 +51,7 @@ npm install
 npm install express knex sqlite3
 
 
-Usage
+## Usage
 
 Start the server:
 
@@ -59,10 +60,11 @@ npm start
 Open your web browser and visit http://localhost:3000.
 Use the application to manage products effortlessly.
 
-Technologies
-Frontend: HTML5, CSS3 and JavaScript Backend: Express.js/Node.js/SQLite
+## Technologies
+Frontend: HTML5, CSS3, and JavaScript
+Backend: Express.js, Node.js, and SQLite
 
-Demo:
+## Demo:
 
 # License
 This project is licensed under the MIT License.
@@ -72,5 +74,5 @@ The project was inspired by the need for a simple and efficient inventory manage
 Thanks to the contributors who have dedicated their time and effort to improve this project.
 
 Support
-For any questions or issues, please open an issue.
+For any questions or issues, please open an issue on github
 
