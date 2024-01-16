@@ -14,7 +14,6 @@ body {
     color: #fff;
 }
 
-
 .navbar-brand {
     font-size: 1.5em;
     text-align: center;
@@ -23,7 +22,7 @@ body {
 .navbar-nav {
     margin-left: auto;
     display: flex; /* Use flexbox to arrange items horizontally */
-    align-items: right;
+    justify-content: flex-end; /* Align items to the right */
 }
 
 .nav-item {
@@ -31,7 +30,7 @@ body {
 }
 
 .nav-link {
-    color: #fff;
+    color: white;
 }
 
 /* Hero Section styles */
@@ -64,6 +63,7 @@ body {
 @media (max-width: 768px) {
     .navbar-nav {
         margin-left: 0;
+        justify-content: center; /* Center items for smaller screens */
     }
 
     .nav-item {
@@ -77,4 +77,3 @@ body {
     margin-bottom: 20px; /* Adjust the pixel value as needed for spacing */
     margin-top: 20px; /* Adjust the pixel value as needed for spacing */
 }
-
