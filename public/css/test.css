@@ -1,20 +1,26 @@
-
-body{
+body {
     background-color: rgb(173, 139, 116);
 }
-.bg-body{
+
+.bg-body {
     background-image: ;
 }
-h1 , h3{
+
+h1, h3 {
     color: #ccc;
 }
-.line{
+
+.line {
     height: 0.05rem;
     background-color: #ccc;
 }
+
 /* Styles for small screens (phones) */
 @media only screen and (max-width: 600px) {
-    /* Your styles for small screens go here */
+    .table {
+        width: 100% !important;
+        margin: auto !important; /* Center the table on smaller screens */
+    }
 }
 
 /* Styles for medium screens (tablets) */
@@ -26,7 +32,6 @@ h1 , h3{
 @media only screen and (min-width: 1025px) and (max-width: 1440px) {
     .table {
         width: 100% !important;
-        /* margin: auto !important; */
     }
 }
 
@@ -34,7 +39,6 @@ h1 , h3{
 @media only screen and (min-width: 1441px) {
     .table {
         width: 100% !important;
-        /* margin: auto !important; */
     }
 }
 
@@ -45,8 +49,8 @@ h1 , h3{
 
 a {
     color: sienna;
- }
+}
 
- a:hover {
-    color: darkorange; /* Change the color on hover if desired */
- }
+a:hover {
+    color: darkorange;
+}
