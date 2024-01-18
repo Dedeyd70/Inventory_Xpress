@@ -1,0 +1,51 @@
+
+body{
+    background-color: rgb(173, 139, 116);
+}
+h1 , h3{
+    color: #ccc;
+}
+.line{
+    height: 0.05rem;
+    background-color: #ccc;
+}
+/* Custom Styles for Mobile View */
+        @media (max-width: 576px) {
+            .bg-body {
+                padding: 20px;
+            }
+
+             .logo {
+                 width: 115px; /* Adjust the width as needed */
+                 height: auto; /* Maintain the aspect ratio */
+             }
+
+            .form-control,
+            textarea {
+                width: 100%;
+            }
+
+            .buttons {
+                width: 100%;
+            }
+
+            .table-responsive {
+                overflow-x: auto;
+            }
+
+            .table {
+                width: 100%;
+            }
+        }
+.btn-primary {
+    background-color: rgb(199, 118, 80);
+    border-color: sienna;
+}
+
+a {
+    color: sienna;
+ }
+
+ a:hover {
+    color: darkorange; /* Change the color on hover if desired */
+ }

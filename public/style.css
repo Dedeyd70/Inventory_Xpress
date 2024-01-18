@@ -1,0 +1,151 @@
+/* Reset some default styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('/img/bg9.jpeg'); /* Replace 'background.jpg' with your actual image filename and path */
+    background-size: cover;
+    color: beige;
+}
+
+.text-right {
+    font-size: 18px; /* Adjust the font size as needed */
+    text-align: right;
+}
+
+.img-fluid mb-4 {
+    max-width: 100%; /* Adjust the percentage or pixel value as needed */
+    max-height: 300px; /* Adjust the pixel value as needed */
+    width: auto; /* Maintain the aspect ratio */
+    height: auto; /* Maintain the aspect ratio */
+}
+
+
+    
+.navbar-brand {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.navbar-toggler {
+    background-color: #28a745; /* Customize the color of the toggle button */
+}
+
+.navbar-nav {
+    margin-left: auto;
+    display: flex; /* Use flexbox to arrange items horizontally */
+    align-items: right;
+}
+
+.nav-item {
+    margin-right: 20px;
+}
+
+.logo {
+    width: 190px; /* Adjust the width as needed */
+    height: auto; /* Maintain the aspect ratio */
+}
+
+
+.nav-link {
+    color: beige;
+}
+
+/* Hero Section styles */
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for better readability */
+    padding: 80px 0;
+}
+
+.display-4 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.lead {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    background-color: #28a745; /* Button color */
+    border-color: #28a745; /* Button border color */
+}
+
+/* Centering text and button in the Hero Section */
+.container {
+    text-align: center;
+}
+
+
+/* Increase space between texts and images */
+.feature-row {
+    margin-bottom: 30px; /* Adjust the pixel value as needed */
+}
+
+/* Increase space between paragraphs */
+.container p {
+    margin-bottom: 20px; /* Adjust the pixel value as needed */
+}
+
+/* Limit the maximum height of images */
+.img-fluid {
+    max-height: 300px; /* Adjust the pixel value as needed */
+}
+
+/* Style for emphasized text */
+.feature-row h2 {
+    font-size: 2em; /* Adjust the font size as needed */
+    font-weight: bold; /* Make it bold */
+    color: beige; /* Set the color to green, adjust as needed */
+}
+
+.keyf {
+        font-size: 2em; /* Adjust the font size as needed */
+        font-weight: bold; /* Make it bold */
+        color: beige; /* Set the color to green, adjust as needed */
+    }
+/* Increase text size */
+.container h2,
+.container h3,
+.container p {
+    font-size: 1.2em; /* Adjust the font size as needed */
+}
+
+/* Style for highlighted text */
+.feature-row h2 span.highlight {
+    color: #dc3545; /* Set the color to red, adjust as needed */
+}
+
+/* Increase space between sections */
+.container {
+    margin-bottom: 40px; /* Adjust the pixel value as needed */
+}
+
+/* ... Existing CSS styles ... */
+
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+    .navbar-nav {
+        margin-left: auto;
+        justify-content: flex-end;; /* Center items for smaller screens */
+    }
+
+    .nav-item {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+
+    .logo {
+        width: 115px; /* Adjust the width as needed */
+        height: auto; /* Maintain the aspect ratio */
+    }
+}
