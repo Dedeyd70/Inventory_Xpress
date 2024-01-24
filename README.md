@@ -15,7 +15,6 @@
 - [The Next Chapter](#the-next-chapter)
 - [Contributing](contributing)
 - [License](#license)
-- [Screenshot](screenshot)
 
 ## Introduction
 
@@ -104,9 +103,6 @@ We welcome contributions to enhance Inventory Xpress. Feel free to fork the repo
 
 # License
 This project is licensed under the MIT License.
-
-## Screenshots
-![Delete product feature](https://github.com/Im-adom/Inventory Xpress/public/img/delete.PNG)
 
 Acknowledgments
 The project was inspired by the need for a simple and efficient inventory management system.
