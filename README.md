@@ -106,7 +106,7 @@ We welcome contributions to enhance Inventory Xpress. Feel free to fork the repo
 This project is licensed under the MIT License.
 
 ## Screenshots
-
+![Delete product feature](img/delete.png)
 
 Acknowledgments
 The project was inspired by the need for a simple and efficient inventory management system.
