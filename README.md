@@ -13,8 +13,6 @@ Effortless Product Management for Seamless Operations
 - [Technologies](#technologies)
 - [Demo](#demo)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Support](#support)
 
 ## Overview
 
