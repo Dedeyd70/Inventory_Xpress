@@ -21,7 +21,7 @@
 "Inventory Xpress" is a versatile and user-friendly project designed for effortless product management. This system allows users to easily add, edit, and delete product records across various categories. With a clean and intuitive interface, users can input crucial details such as product name, description, category, and price. The project incorporates dynamic CRUD operations, empowering users to Create, Read, Update, and Delete records as needed.
 
 - [Deployed Site](https://inventoryxpress-tjx7.onrender.com)
-- [Project Blog Article](link_to_blog_article)  
+- [Project Blog Article](https://www.linkedin.com/pulse/revolutionizing-inventory-management-through-tech-innovation-quao-pyvte)  
 - [Grace Amaning-Kwarteng - LinkedIn](https://www.linkedin.com/in/grace-amaning-kwarteng)
 - [Dorothy Dede Quao - LinkedIn](https://www.linkedin.com/in/dorothy-dede-quao-6378ab20b)
 - [Trudy Bannerman-Williams - LinkedIn](https://www.linkedin.com/in/trudy-bannerman-williams-81a6ba24a)
